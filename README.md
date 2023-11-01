@@ -1,1 +1,3 @@
-# Github crash Course section of the GitHub Actions course on Udemy by Maximilain Schwartz
+# Important Instructions
+
+This is a demo repository for practicing Git & GitHub.
